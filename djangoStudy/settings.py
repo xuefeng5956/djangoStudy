@@ -37,6 +37,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'booktest',         #进行应用注册
 )
 
 MIDDLEWARE_CLASSES = (
